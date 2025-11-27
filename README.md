@@ -43,12 +43,26 @@ Week 1 focused on establishing strong foundations in Python programming, Git/Git
 
 ---
 
-## Day 2 — Today’s Learning (In Progress)
+## Day 2 — imports, package structure , OOP (Completed)
 <details>
 <summary><strong>View Details</strong></summary>
 
+### Completed Tasks
+- Learned **imports**, **package structure**, and how to create **reusable modules**
+- Practicing conditional statements loops
+- Learned OOP , *args **kwargs 
+- Basic Calculator using **reusable modules**
+
+</details>
+
+
+---
+
+
+## Day 3 — Today’s Learning (In Progress)
+<details>
+<summary><strong>View Details</strong></summary>
 ### Tasks in Progress
-- Learning **imports**, **package structure**, and how to create **reusable modules**
 - Practicing reading and writing **JSON** and **CSV** files
 - Building a **CLI Expense Tracker** with features for:
   - Adding expenses
@@ -61,8 +75,4 @@ Week 1 focused on establishing strong foundations in Python programming, Git/Git
   - **Duplicate remover** for lists
 </details>
 
-
 ---
-
-
-
