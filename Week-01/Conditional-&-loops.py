@@ -34,14 +34,14 @@
 #     print(i)
 #     i += 1
 
-# # print table of 5
+# print table of 5
 # i = 1
 # while i <= 10:
 #     print(f"5 x {i} = {5*i}")
 #     i += 1
 
 # nested loops
-# for i in range(1, 5):
-#     for j in range(1, 8):
-#         print(j)
-#     print("----")
+for i in range(1, 5):
+    for j in range(1, 8):
+        print(j)
+    print("----")
